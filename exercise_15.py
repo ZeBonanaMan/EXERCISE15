@@ -7,3 +7,9 @@ exponent_value = 5
 
 result = exponent(base_value, exponent_value)
 print(base_value, "raises to the power of", exponent_value, "is:", result)
+
+base_value = 5
+exponent_value = 4
+
+result = exponent(base_value, exponent_value)
+print(base_value, "raises to the power of", exponent_value, "is:", result)
